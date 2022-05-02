@@ -5,7 +5,6 @@
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 ```
-Hayvanlar:
 -Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
 -Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
 -Uçaklar çalışır veya onarım durumunda olabilir.
