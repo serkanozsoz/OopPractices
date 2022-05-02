@@ -1,4 +1,4 @@
-# ClassDiagram-Zoo
+# ZooManagement(UML Diagram)
 
 ## Ödev - Hayvanat Bahçesi Yönetimi
 
